@@ -1,0 +1,18 @@
+# Build generated
+ excel2json.xcodeproj/build/
+ excel2json.xcodeproj/DerivedData
+ excel2json.xcodeproj/build.xcarchive
+
+## Various settings
+ excel2json.xcodeproj/*.pbxuser
+ excel2json.xcodeproj/!default.pbxuser
+ excel2json.xcodeproj/*.mode1v3
+ excel2json.xcodeproj/!default.mode1v3
+ excel2json.xcodeproj/*.mode2v3
+ excel2json.xcodeproj/!default.mode2v3
+ excel2json.xcodeproj/*.perspectivev3
+ excel2json.xcodeproj/!default.perspectivev3
+ excel2json.xcodeproj/xcuserdata
+ excel2json.xcodeproj/project.xcworkspace/xcuserdata
+ excel2json.xcodeproj/xcuserdata/excel2json.xcuserdata
+excel2json.xcodeproj/xcuserdata
